@@ -16,7 +16,9 @@
 </div>
 
 <div class="time">
-	7:20PM
+	 <?php 
+                    echo date('Y-m-d H:i:s');
+               ?>
 </div>
 
 
