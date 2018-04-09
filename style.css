@@ -1,0 +1,65 @@
+
+.title{
+	color: #330C57;
+	font-size: 18px;
+	padding-left:100px; 
+	text-transform:  uppercase;
+	font-weight: bold;
+}
+body{
+	background-image: url('http://www.novelbeautytips.com/wp-content/uploads/2017/09/women-love-makeup.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-opacity:0.2;
+	background-color:#A9A2AB;
+	background-blend-mode: overlay;
+
+   
+   
+}
+nav{
+	margin-top:30px;
+	margin-bottom: 200px;
+}
+button{
+	background-color: #651D80;
+	color: white;
+	width: 100px;
+	height: 30px;
+	border:0px;
+	font-size: 18px;
+	float: right;
+	margin-left: 20px;
+	margin-right: 50px;
+}
+.welcome{
+	text-align: center;
+	margin-bottom:  20px;
+	font-weight: bold;;
+	font-size: 18px;
+}
+
+.learn{
+	background-color: #651D80;
+	color: white;
+	width: 120px;
+	height: 40px;
+	border:0px;
+	font-size: 18px;
+	text-align: center;
+	float: none !important;
+	box-shadow: 1px 5px #888888;
+	box-shadow opacity: 10%; 
+
+	
+}
+.tiarawelcome{
+	margin-bottom: 80px;
+}
+.time{
+	position: left bottom;
+	padding-left: 100px;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 300px;
+}
